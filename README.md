@@ -1,4 +1,6 @@
 ASD Early Screening AI Assistant
+
+
 🧠 Project Overview
 A comprehensive machine learning system for early Autism Spectrum Disorder screening using 15 behavioral indicators. Provides both web interface and API for ASD risk assessment through a trained Random Forest classifier with 85% accuracy.
 
