@@ -38,12 +38,21 @@ Multiple risk categories with color-coded results
 Export capabilities (CSV, PDF reports)
 
 🏗️ System Architecture
+
+
 Backend: FastAPI with machine learning model
+
+
 Frontend: Streamlit web application
+
+
 Model: Random Forest classifier (200 estimators)
+
 Data: Comprehensive preprocessing pipeline
 
 📊 Screening Areas
+
+
 Social Communication: Response to name, eye contact, pointing
 
 Social Interaction: Pretend play, empathy, gestures
@@ -53,6 +62,8 @@ Sensory & Development: Sound sensitivities, language milestones
 Behavior Patterns: Routine adherence, social engagement
 
 🔧 API Endpoints
+
+
 POST /predict - Risk assessment
 
 GET /health - System status
@@ -62,6 +73,8 @@ GET /model-info - Technical details
 GET /features - Behavioral indicators
 
 🚀 Usage
+
+
 Web App: Access at http://localhost:8501
 
 API: Available at http://localhost:8000
@@ -75,6 +88,8 @@ Results: Probability scores + risk categories + explanations
 This is a screening tool only - not a diagnostic tool. Always consult qualified healthcare professionals for medical diagnosis. Results should be used as part of comprehensive evaluation by developmental specialists.
 
 🤝 Support & Contribution
+
+
 Issues: GitHub issue tracking
 
 Enhancements: ML improvements, multi-language support
