@@ -3,7 +3,6 @@ ASD Early Screening AI Assistant
 A comprehensive machine learning system for early Autism Spectrum Disorder screening using 15 behavioral indicators. Provides both web interface and API for ASD risk assessment through a trained Random Forest classifier with 85% accuracy.
 
 ⚡ Quick Start
-bash
 # Install dependencies
 pip install -r requirements.txt
 
@@ -62,6 +61,7 @@ Integration: JSON API for custom applications
 Results: Probability scores + risk categories + explanations
 
 ⚠️ Important Disclaimer
+
 This is a screening tool only - not a diagnostic tool. Always consult qualified healthcare professionals for medical diagnosis. Results should be used as part of comprehensive evaluation by developmental specialists.
 
 🤝 Support & Contribution
