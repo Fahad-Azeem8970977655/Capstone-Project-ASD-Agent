@@ -1,0 +1,201 @@
+  Q NO 1: Does your child look at you when you call his/her name?,"Q NO 2 : Does your child point at things they want (e.g., a toy or snack)?","Q NO 03: Does your child point at objects to share interest with you (e.g., pointing at a plane in the sky)?",Q NO 04 : Does your child look at your face when talking or playing with you?,"Q NO 05: Does your child follow your gaze if you look at something (e.g., if you look at a toy, does the child look too)?","Q NO 6 : Does your child engage in pretend play (e.g., pretending to cook, talking to dolls, or playing with toy cars as if they are real)?"," Q NO 07 : If you or someone else in the family is visibly upset, does your child show signs of wanting to comfort them?","Q NO 08 :  Does your child get upset when their daily routine is changed (e.g., eating at a different time, taking a different route to school)?",Q NO 09 : Does your child use simple gestures?,Q NO 10 : Did you ever expect the child was nearly deaf?,Q NO 11: Was there a time when the child insisted on listening to some certain music?," Q NO 12 : During the first year, did the child react to bright lights, bright colors, or unusual sounds?", Q NO 13 : At what age did the child say their first words?, Q  NO 14 : Approximately how many words can your child say clearly?, Q no 15 : How many hours per week does your child spend playing with other children? ,target
+Yes,Yes,YES,Yes,YES,Some-time,Yes,No,Yes,NO,Some-time,Yes,Before 9 months,20,2 hour,Yes
+Yes,No,YES,Yes,YES,No,No,Some-time,Maybe,NO,Some-time,No,Before 9 months,20,2 hour,Yes
+Yes,Yes,YES,Maybe,No,YES,No,Yes,No,NO,NO,Yes,Before 9 months,50,2 hour,Yes
+Yes,Yes,YES,Yes,YES,YES,Yes,Yes,Yes,NO,YES,Yes,1-2 years,50,2 hour,Yes
+Yes,Yes,NO,Maybe,No,No,No,Yes,Yes,NO,NO,Maybe,After 2 years,30,2 hour,Yes
+Yes,Yes,YES,Yes,YES,YES,Yes,Yes,Maybe,NO,YES,Yes,1-2 years,30,2 hour,Yes
+Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,After 2 years,20,2 hour,Yes
+Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,After 2 years,20,2 hour,Yes
+Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9-12 months,20,2 hour,Yes
+Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9-12 months,20,2 hour,Yes
+Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,After 2 years,20,4 hour,Yes
+Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1-2 years,20,2 hour,Yes
+Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,After 2 years,50,2 hour,Yes
+Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,After 2 years,40,2 hour,Yes
+Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9-12 months,20,2 hour,Yes
+Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9-12 months,30,4 hour,Yes
+Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9-12 months,30,6 hour,Yes
+Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1-2 years,30,4 hour,Yes
+Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Before 9 months,20,4 hour,Yes
+Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1-2 years,20,4 hour,Yes
+Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9-12 months,20,2 hour,Yes
+Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Before 9 months,20,2 hour,Yes
+Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9-12 months,20,2 hour,Yes
+Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1-2 years,20,2 hour,Yes
+Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9-12 months,50,4 hour,Yes
+Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,After 2 years,20,2 hour,Yes
+Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1-2 years,30,2 hour,Yes
+Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,After 2 years,50,2 hour,Yes
+Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Before 9 months,30,4 hour,Yes
+Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9-12 months,20,6 hour,Yes
+Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9-12 months,30,5 hour,Yes
+Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1-2 years,20,4 hour,Yes
+Yes,Yes,YES,Yes,No,YES,No,Yes,Yes,NO,NO,Maybe,Before 9 months,30,4 hour,Yes
+Yes,Yes,NO,Yes,No,Some-time,No,Yes,Yes,NO,NO,Maybe,After 2 years,50,2 hour,Yes
+Yes,Yes,YES,No,No,Some-time,No,Some-time,No,NO,NO,No,1-2 years,30,2 hour,Yes
+Yes,Yes,YES,Yes,YES,Some-time,Maybe,Yes,Yes,NO,NO,Maybe,After 2 years,20,2 hour,Yes
+Yes,Yes,YES,Yes,YES,No,Yes,Some-time,Yes,NO,YES,Yes,9-12 months,40,6 hour,No
+Yes,Yes,YES,Maybe,YES,Some-time,No,Some-time,Maybe,NO,NO,No,1-2 years,30,2 hour,No
+Yes,No,NO,Maybe,YES,Some-time,Maybe,No,Yes,NO,NO,Maybe,After 2 years,40,4 hour,No
+No,Yes,NO,No,No,Some-time,Maybe,No,No,NO,NO,Maybe,1-2 years,30,5 hour,No
+No,Yes,NO,Maybe,No,No,No,Some-time,No,NO,YES,No,After 2 years,20,5 hour,No
+Yes,Yes,YES,Yes,YES,YES,Yes,Yes,Yes,YES,YES,Yes,Before 9 months,20,2 hour,No
+No,No,NO,No,No,No,No,No,No,NO,NO,No,9-12 months,30,4 hour,No
+Yes,No,YES,No,YES,No,Yes,No,Yes,NO,YES,No,Before 9 months,30,2 hour,No
+Yes,No,YES,Maybe,YES,Some-time,Yes,Some-time,Yes,NO,YES,Maybe,9-12 months,40,6 hour,No
+Yes,Yes,YES,Maybe,YES,Some-time,No,No,Yes,NO,NO,Yes,Before 9 months,30,2 hour,No
+No,No,YES,Maybe,No,No,No,Some-time,Maybe,YES,YES,Maybe,1-2 years,40,4 hour,No
+Yes,No,NO,Yes,No,Some-time,Yes,Yes,No,YES,YES,Maybe,1-2 years,30,2 hour,No
+Yes,Yes,YES,Yes,YES,YES,No,No,Maybe,NO,NO,No,After 2 years,30,4 hour,No
+No,No,YES,Maybe,No,No,No,No,No,NO,NO,No,1-2 years,40,5 hour,No
+Yes,No,NO,Maybe,No,Some-time,Maybe,Some-time,Maybe,NO,Some-time,Maybe,1-2 years,50,6 hour,No
+Yes,No,NO,Maybe,No,Some-time,Yes,Some-time,Maybe,NO,Some-time,Maybe,After 2 years,30,4 hour,No
+Yes,Yes,YES,Maybe,No,Some-time,No,Yes,Yes,YES,Some-time,Yes,9-12 months,30,2 hour,No
+No,No,NO,Maybe,No,No,Maybe,No,Maybe,YES,YES,No,1-2 years,30,2 hour,No
+Yes,No,NO,No,No,YES,Maybe,Some-time,No,NO,NO,No,Before 9 months,20,2 hour,No
+Yes,No,YES,Maybe,No,No,No,Yes,Yes,YES,YES,Maybe,1-2 years,30,4 hour,No
+Yes,No,NO,Yes,YES,Some-time,Maybe,Yes,Yes,NO,NO,No,1-2 years,30,4 hour,No
+No,No,YES,Maybe,YES,YES,Yes,Some-time,Yes,YES,Some-time,Maybe,9-12 months,20,2 hour,No
+Yes,No,NO,Yes,No,No,No,No,Yes,NO,YES,Yes,Before 9 months,20,2 hour,No
+Yes,No,Yes,Maybe,No,No,Yes,Yes,Yes,YES,Some-time,No,After 2 years,50,4 hour,No
+Yes,No,YES,Yes,No,YES,No,Yes,Yes,YES,YES,Yes,Before 9 months,20,2 hour,No
+Yes,No,YES,Yes,YES,Some-time,Maybe,Some-time,Maybe,YES,Some-time,Yes,After 2 years,50,6 hour,No
+Yes,No,NO,Yes,No,No,Yes,No,Maybe,NO,Some-time,No,1-2 years,40,2 hour,No
+No,No,NO,Maybe,YES,YES,Yes,Yes,Yes,YES,YES,Yes,Before 9 months,20,4 hour,No
+Yes,No,YES,Maybe,No,Some-time,Maybe,Some-time,Maybe,NO,Some-time,Maybe,After 2 years,50,5 hour,No
+Yes,No,NO,Maybe,No,No,Yes,Some-time,Maybe,NO,NO,No,After 2 years,50,6 hour,No
+Yes,Yes,YES,Yes,YES,YES,No,Yes,No,NO,NO,Yes,After 2 years,50,2 hour,No
+Yes,Yes,YES,Yes,YES,YES,No,Yes,No,NO,NO,Yes,After 2 years,50,2 hour,No
+Yes,Yes,YES,Yes,YES,YES,No,Yes,No,NO,NO,Yes,After 2 years,50,2 hour,No
+Yes,Yes,YES,Yes,YES,YES,No,Yes,No,NO,NO,Yes,After 2 years,50,6 hour,No
+Yes,Yes,YES,Yes,YES,YES,No,Yes,No,NO,NO,Yes,After 2 years,50,2 hour,No
+Yes,Yes,YES,Yes,YES,YES,No,Yes,No,NO,NO,Yes,After 2 years,50,2 hour,No
+Yes,Yes,YES,Yes,YES,YES,No,Yes,No,NO,NO,Yes,After 2 years,50,2 hour,No
+Yes,Yes,YES,Yes,YES,YES,No,Yes,No,NO,NO,Yes,After 2 years,50,6 hour,No
+Yes,Yes,YES,Yes,YES,YES,No,Yes,No,NO,NO,Yes,After 2 years,50,2 hour,No
+Yes,Yes,YES,Yes,YES,YES,No,Yes,No,NO,NO,Yes,After 2 years,50,2 hour,No
+Yes,Yes,YES,Yes,YES,YES,Yes,Yes,Yes,NO,YES,Yes,1-2 years,50,2 hour,No
+Yes,Yes,YES,Yes,YES,YES,Yes,Yes,Yes,NO,YES,Yes,Before 9 months,30,6 hour,No
+Yes,Yes,YES,Yes,YES,YES,Yes,Yes,Yes,NO,YES,Yes,Before 9 months,30,6 hour,No
+Yes,Yes,YES,Yes,YES,YES,Yes,Yes,Yes,NO,YES,Yes,Before 9 months,30,6 hour,No
+Yes,Yes,YES,Yes,YES,YES,Yes,Yes,Yes,NO,YES,Yes,Before 9 months,30,6 hour,No
+Yes,Yes,YES,Yes,YES,YES,Yes,Yes,Yes,NO,YES,Yes,Before 9 months,50,6 hour,No
+Yes,Yes,YES,Yes,YES,YES,Yes,Yes,Yes,NO,YES,Yes,Before 9 months,30,6 hour,No
+Yes,Yes,YES,Yes,YES,YES,Yes,Yes,Yes,NO,YES,Yes,Before 9 months,30,6 hour,No
+Yes,Yes,YES,Yes,YES,YES,Yes,Yes,Yes,NO,YES,Yes,Before 9 months,30,6 hour,No
+Yes,Yes,YES,Yes,YES,YES,Yes,Yes,Yes,NO,YES,Yes,Before 9 months,30,6 hour,No
+Yes,Yes,YES,Yes,YES,YES,Yes,Yes,Yes,NO,YES,Yes,Before 9 months,30,6 hour,No
+Yes,Yes,YES,Yes,No,Some-time,Yes,No,Yes,NO,NO,Yes,9-12 months,20,2 hour,No
+Yes,Yes,YES,Yes,YES,No,No,No,Yes,NO,YES,Yes,After 2 years,20,6 hour,No
+Yes,Yes,YES,Yes,YES,No,No,No,Yes,NO,YES,Yes,After 2 years,20,6 hour,No
+Yes,Yes,YES,Yes,YES,No,No,No,Yes,NO,YES,Yes,After 2 years,20,6 hour,No
+Yes,Yes,YES,Yes,YES,No,No,No,Yes,NO,YES,Yes,After 2 years,20,6 hour,No
+Yes,Yes,YES,Yes,YES,No,No,No,Yes,NO,YES,Yes,After 2 years,20,6 hour,No
+Yes,Yes,YES,Yes,YES,No,No,No,Yes,NO,YES,Yes,After 2 years,20,6 hour,No
+Yes,Yes,YES,Yes,YES,No,No,No,Yes,NO,YES,Yes,After 2 years,20,6 hour,No
+Yes,Yes,YES,Yes,YES,No,No,No,Yes,NO,YES,Yes,After 2 years,20,6 hour,No
+Yes,Yes,YES,Yes,YES,No,No,No,Yes,NO,YES,Yes,After 2 years,20,6 hour,No
+Yes,Yes,YES,Yes,YES,No,No,No,Yes,NO,YES,Yes,After 2 years,20,6 hour,No
+Yes,Yes,YES,Yes,YES,YES,Yes,Yes,No,NO,NO,No,After 2 years,50,4 hour,No
+Yes,Yes,YES,Yes,YES,YES,Yes,Yes,No,NO,NO,No,After 2 years,50,4 hour,No
+Yes,Yes,YES,Yes,YES,YES,Yes,Yes,No,NO,NO,No,After 2 years,50,4 hour,No
+Yes,Yes,YES,Yes,YES,YES,Yes,Yes,No,NO,NO,No,After 2 years,50,4 hour,No
+Yes,Yes,YES,Yes,YES,YES,Yes,Yes,No,NO,NO,No,After 2 years,50,4 hour,No
+Yes,Yes,YES,Yes,YES,YES,Yes,Yes,No,NO,NO,No,After 2 years,50,4 hour,No
+Yes,Yes,YES,Yes,YES,YES,Yes,Yes,No,NO,NO,No,After 2 years,50,4 hour,No
+Yes,Yes,YES,Yes,YES,YES,Yes,Yes,No,NO,NO,No,After 2 years,50,4 hour,No
+Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,After 2 years,50,4 hour,Yes
+Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,After 2 years,50,4 hour,Yes
+Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,After 2 years,20,2 hour,Yes
+Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,After 2 years,20,2 hour,Yes
+Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,After 2 years,20,2 hour,Yes
+Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Before 9 months,20,4 hour,Yes
+Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Before 9 months,20,4 hour,Yes
+Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Before 9 months,20,4 hour,Yes
+Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1-2 years,30,4 hour,Yes
+Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1-2 years,30,4 hour,Yes
+Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1-2 years,30,4 hour,Yes
+Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1-2 years,20,4 hour,Yes
+Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1-2 years,20,4 hour,Yes
+Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1-2 years,20,4 hour,Yes
+Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9-12 months,20,2 hour,Yes
+Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9-12 months,20,2 hour,Yes
+Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9-12 months,20,2 hour,Yes
+Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Before 9 months,20,2 hour,Yes
+Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Before 9 months,20,2 hour,Yes
+Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Before 9 months,20,2 hour,Yes
+Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1-2 years,20,2 hour,Yes
+Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1-2 years,20,2 hour,Yes
+Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1-2 years,20,2 hour,Yes
+Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1-2 years,20,2 hour,Yes
+Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1-2 years,20,2 hour,Yes
+Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,1-2 years,20,2 hour,Yes
+Yes,Yes,YES,Yes,No,YES,No,Yes,Yes,NO,NO,Maybe,Before 9 months,30,4 hour,Yes
+Yes,Yes,YES,Yes,No,YES,No,Yes,Yes,NO,NO,Maybe,Before 9 months,30,4 hour,Yes
+Yes,Yes,YES,Yes,No,YES,No,Yes,Yes,NO,NO,Maybe,Before 9 months,30,4 hour,Yes
+Yes,Yes,NO,Yes,No,Some-time,No,Yes,Yes,NO,NO,Maybe,After 2 years,50,2 hour,Yes
+Yes,Yes,NO,Yes,No,Some-time,No,Yes,Yes,NO,NO,Maybe,After 2 years,50,2 hour,Yes
+Yes,Yes,NO,Yes,No,Some-time,No,Yes,Yes,NO,NO,Maybe,After 2 years,50,2 hour,Yes
+Yes,Yes,YES,No,No,Some-time,No,Some-time,No,NO,NO,No,1-2 years,30,2 hour,Yes
+Yes,Yes,YES,No,No,Some-time,No,Some-time,No,NO,NO,No,1-2 years,30,2 hour,Yes
+Yes,Yes,YES,No,No,Some-time,No,Some-time,No,NO,NO,No,1-2 years,30,2 hour,Yes
+Yes,Yes,YES,Yes,YES,Some-time,Maybe,Yes,Yes,NO,NO,Maybe,After 2 years,20,2 hour,Yes
+Yes,Yes,YES,Yes,YES,Some-time,Maybe,Yes,Yes,NO,NO,Maybe,After 2 years,20,2 hour,Yes
+Yes,Yes,YES,Yes,YES,Some-time,Maybe,Yes,Yes,NO,NO,Maybe,After 2 years,20,2 hour,Yes
+Yes,Yes,YES,Yes,YES,Some-time,Maybe,Yes,Yes,NO,NO,Maybe,9-12 months,50,4 hour,Yes
+Yes,Yes,YES,Yes,YES,Some-time,Yes,No,Maybe,NO,YES,Yes,9-12 months,40,6 hour,Yes
+Yes,Yes,YES,Yes,YES,Some-time,Maybe,Yes,Yes,NO,NO,Maybe,9-12 months,50,4 hour,Yes
+Yes,Yes,YES,Yes,YES,Some-time,Maybe,Yes,Yes,NO,NO,Maybe,9-12 months,50,4 hour,Yes
+Yes,No,YES,No,YES,YES,Yes,Yes,Yes,NO,Some-time,Yes,After 2 years,20,2 hour,Yes
+Yes,Yes,NO,Yes,No,No,Maybe,Some-time,Maybe,NO,NO,Maybe,9-12 months,30,6 hour,Yes
+Yes,Yes,YES,No,YES,YES,Yes,Yes,Yes,NO,Some-time,Yes,After 2 years,20,2 hour,Yes
+Yes,Yes,YES,No,YES,YES,Yes,Yes,Yes,NO,Some-time,Yes,After 2 years,20,2 hour,Yes
+Yes,Yes,YES,Yes,YES,YES,Maybe,Some-time,Yes,NO,NO,Yes,9-12 months,20,2 hour,Yes
+Yes,Yes,YES,Yes,YES,YES,Maybe,Some-time,Yes,NO,NO,Yes,9-12 months,20,2 hour,Yes
+Yes,Yes,NO,Yes,No,No,Maybe,Some-time,Maybe,NO,NO,Maybe,9-12 months,30,6 hour,Yes
+Yes,Yes,YES,Yes,YES,YES,Maybe,Some-time,Yes,NO,NO,Yes,9-12 months,20,2 hour,Yes
+Yes,Yes,NO,Yes,No,No,Maybe,Some-time,Maybe,NO,NO,Maybe,9-12 months,30,6 hour,Yes
+No,No,NO,No,YES,YES,No,Yes,Yes,NO,YES,Yes,1-2 years,20,2 hour,Yes
+Yes,Yes,YES,Maybe,YES,Some-time,Maybe,Yes,Maybe,NO,Some-time,Yes,9-12 months,30,4 hour,Yes
+No,No,NO,No,YES,YES,No,Yes,Yes,NO,YES,Yes,1-2 years,20,2 hour,Yes
+No,No,NO,No,YES,YES,No,Yes,Yes,NO,YES,Yes,1-2 years,20,2 hour,Yes
+Yes,Yes,YES,Maybe,YES,Some-time,Maybe,Yes,Maybe,NO,Some-time,Yes,9-12 months,30,4 hour,Yes
+Yes,Yes,NO,Yes,YES,No,No,Some-time,Maybe,NO,Some-time,Maybe,After 2 years,20,4 hour,Yes
+Yes,Yes,YES,Maybe,YES,Some-time,Maybe,Yes,Maybe,NO,Some-time,Yes,9-12 months,30,4 hour,Yes
+Yes,Yes,NO,Yes,YES,No,No,Some-time,Maybe,NO,Some-time,Maybe,After 2 years,20,4 hour,Yes
+Yes,Yes,NO,Yes,YES,No,No,Some-time,Maybe,NO,Some-time,Maybe,After 2 years,20,4 hour,Yes
+Yes,Yes,YES,Yes,YES,Some-time,Yes,Some-time,Yes,NO,Some-time,Maybe,9-12 months,20,2 hour,Yes
+Yes,Yes,NO,Maybe,YES,YES,Yes,No,No,YES,Some-time,Maybe,9-12 months,20,2 hour,Yes
+Yes,Yes,YES,Yes,YES,Some-time,Yes,Some-time,Yes,NO,Some-time,Maybe,9-12 months,20,2 hour,Yes
+Yes,Yes,NO,Maybe,YES,YES,Yes,No,No,YES,Some-time,Maybe,9-12 months,20,2 hour,Yes
+Yes,Yes,YES,Yes,No,YES,Yes,No,Yes,NO,NO,Yes,9-12 months,20,2 hour,No
+Yes,Yes,YES,Yes,No,Some-time,Yes,No,Yes,NO,NO,Yes,9-12 months,20,2 hour,No
+Yes,Yes,YES,Yes,YES,Some-time,Yes,No,Maybe,NO,YES,Yes,9-12 months,40,6 hour,No
+Yes,Yes,YES,Yes,YES,Some-time,Yes,No,Maybe,NO,YES,Yes,9-12 months,40,6 hour,No
+Yes,Yes,YES,Yes,YES,Some-time,Yes,No,Maybe,NO,YES,Yes,9-12 months,40,6 hour,No
+Yes,Yes,YES,Yes,YES,Some-time,Yes,No,Maybe,NO,YES,Yes,9-12 months,40,6 hour,No
+Yes,Yes,YES,Yes,YES,Some-time,Yes,No,Maybe,NO,YES,Yes,9-12 months,40,6 hour,No
+Yes,Yes,YES,Yes,YES,Some-time,Yes,No,Maybe,NO,YES,Yes,9-12 months,40,6 hour,No
+Yes,Yes,YES,Yes,YES,Some-time,Yes,No,Maybe,NO,YES,Yes,9-12 months,40,6 hour,No
+Yes,Yes,YES,Yes,YES,Some-time,Yes,No,Maybe,NO,YES,Yes,9-12 months,40,6 hour,No
+Yes,Yes,YES,Yes,YES,Some-time,Yes,No,Maybe,NO,YES,Yes,9-12 months,40,6 hour,No
+Yes,Yes,YES,Yes,YES,Some-time,Yes,No,Maybe,NO,YES,Yes,9-12 months,40,6 hour,No
+Yes,Yes,YES,Yes,No,YES,Yes,No,Yes,NO,NO,Yes,9-12 months,20,2 hour,No
+Yes,Yes,YES,Yes,No,Some-time,Yes,No,Yes,NO,NO,Yes,9-12 months,20,2 hour,No
+Yes,Yes,YES,Yes,No,YES,Yes,No,Yes,NO,NO,Yes,9-12 months,20,2 hour,No
+Yes,No,NO,Maybe,No,Some-time,Maybe,Some-time,Maybe,NO,Some-time,Maybe,9-12 months,20,2 hour,No
+Yes,No,NO,Maybe,No,Some-time,Yes,Some-time,Maybe,NO,Some-time,Maybe,9-12 months,20,2 hour,No
+Yes,Yes,YES,Maybe,No,Some-time,No,Yes,Yes,YES,Some-time,Yes,9-12 months,20,2 hour,No
+No,No,NO,Maybe,No,No,Maybe,No,Maybe,YES,YES,No,9-12 months,20,2 hour,No
+Yes,No,NO,No,No,YES,Maybe,Some-time,No,NO,NO,No,9-12 months,20,2 hour,No
+Yes,No,YES,Maybe,No,No,No,Yes,Yes,YES,YES,Maybe,9-12 months,20,2 hour,No
+Yes,No,NO,Yes,YES,Some-time,Maybe,Yes,Yes,NO,NO,No,9-12 months,20,2 hour,No
+No,No,YES,Maybe,YES,YES,Yes,Some-time,Yes,YES,Some-time,Maybe,9-12 months,20,2 hour,No
+Yes,No,NO,Yes,No,No,No,No,Yes,NO,YES,Yes,9-12 months,20,2 hour,No
+Yes,No,Yes,Maybe,No,No,Yes,Yes,Yes,YES,Some-time,No,9-12 months,20,2 hour,No
+Yes,No,YES,Yes,No,YES,No,Yes,Yes,YES,YES,Yes,9-12 months,20,2 hour,No
+Yes,No,YES,Yes,YES,Some-time,Maybe,Some-time,Maybe,YES,Some-time,Yes,9-12 months,20,2 hour,No
+Yes,No,NO,Yes,No,No,Yes,No,Maybe,NO,Some-time,No,9-12 months,20,2 hour,No
+No,No,NO,Maybe,YES,YES,Yes,Yes,Yes,YES,YES,Yes,9-12 months,20,2 hour,No
+Yes,No,YES,Maybe,No,Some-time,Maybe,Some-time,Maybe,NO,Some-time,Maybe,9-12 months,20,2 hour,No
