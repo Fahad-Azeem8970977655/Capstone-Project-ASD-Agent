@@ -1,31 +1,74 @@
 ASD Early Screening AI Assistant
-Project Overview
-The ASD Early Screening AI Assistant is a comprehensive machine learning system designed for early Autism Spectrum Disorder (ASD) risk assessment using behavioral indicators. This project provides both a web interface and REST API that analyzes 15 key behavioral markers to generate probability-based risk assessments. The system implements a complete pipeline from data preprocessing to model deployment, featuring a FastAPI backend for robust predictions and a Streamlit frontend for an interactive user experience. Built with a Random Forest classifier trained on behavioral data, the tool offers professional-grade screening capabilities while maintaining user-friendly accessibility for parents and caregivers.
+🧠 Project Overview
+A comprehensive machine learning system for early Autism Spectrum Disorder screening using 15 behavioral indicators. Provides both web interface and API for ASD risk assessment through a trained Random Forest classifier with 85% accuracy.
 
-Key Features
-The system offers comprehensive screening functionality through a 15-question assessment based on established behavioral indicators, providing real-time risk evaluation with detailed probability scoring across multiple categories (Low, Low-Moderate, Moderate, Moderate-High, High). The interactive web interface features chat-like guided questioning with visual progress tracking and completion monitoring, while the robust RESTful API supports programmatic integration. Technical capabilities include enhanced preprocessing with sophisticated answer normalization, robust error handling with local model fallback options, multiple export formats (CSV, PDF), and comprehensive logging with CORS-enabled web integration. The user experience is optimized through responsive design with custom styling, detailed result explanations accompanied by actionable recommendations, and thorough data quality validation with appropriate warnings.
+⚡ Quick Start
+bash
+# Install dependencies
+pip install -r requirements.txt
 
-Installation and Setup
-To implement the system, begin by cloning the repository and installing Python dependencies including FastAPI, Streamlit, scikit-learn, pandas, and other required packages. The setup process involves training the machine learning model using the provided dataset, which automatically generates serialized model files and metadata. Deployment options include running the web application standalone via Streamlit, operating the API server independently using FastAPI, or implementing a combined setup with both components for full functionality. The system is designed with flexibility in mind, supporting various deployment scenarios from local development to production environments.
+# Train model
+python train_model.py
 
-System Architecture
-The project follows a modular architecture with clear separation of concerns: data preparation utilities handle comprehensive cleaning and feature engineering, model training scripts manage the machine learning pipeline, API components provide RESTful endpoints with robust error handling, and the web application delivers an intuitive user interface. The model infrastructure employs a Random Forest classifier with 200 estimators and balanced class weights, trained on behavioral data and achieving approximately 85% test accuracy. The preprocessing pipeline includes sophisticated handling of various answer formats, special processing for age-related questions, word counts, and time-based responses, with robust encoding mechanisms for categorical data and intelligent missing value imputation.
+# Launch web app
+streamlit run streamlit_app.py
 
-Screening Methodology
-The assessment covers 15 behavioral indicators across three key domains: social communication (response to name, pointing, eye contact, gaze following), social interaction (pretend play, empathy, routine adherence, gestures), and sensory/communication development (hearing concerns, sound sensitivities, early sensory responses, language milestones, vocabulary, social interaction). Each question is carefully formulated based on established behavioral markers and includes multiple response options normalized to consistent numerical scales. The risk categorization system provides clear probability ranges with color-coded visual indicators and detailed descriptions to help users understand the screening results in proper context.
+# Start API server
+python agent_api.py
+🎯 Key Features
+15-question screening based on established behavioral markers
 
-API Documentation
-The REST API provides comprehensive endpoints including health checks for system monitoring, prediction endpoints for risk assessment, model information for technical details, feature analysis for understanding behavioral indicators, and usage statistics for performance monitoring. The prediction endpoint accepts JSON payloads with answer data and returns structured responses containing probability scores, risk categories, detailed explanations, data quality metrics, and technical metadata. The API is designed with production-ready features including proper error handling, input validation, CORS support, and comprehensive logging.
+Real-time risk assessment with probability scoring
 
-Usage Instructions
-For typical use, launch the web application which guides users through the screening questions with a conversational interface, provides real-time progress tracking, and delivers comprehensive results with visualizations and explanatory content. The system supports multiple interaction patterns including direct API integration for developers building custom applications, batch processing capabilities for research purposes, and administrative functions for result management. Users can export results in multiple formats for sharing with healthcare providers and maintain session continuity for incomplete assessments.
+Interactive web interface with progress tracking
 
-Technical Implementation
-The backend implements sophisticated answer processing with comprehensive value normalization, handling various input formats including text responses, numerical values, and categorical selections. Data quality checks ensure response completeness and consistency, while the prediction engine generates calibrated probability scores with confidence metrics. The frontend maintains state management for user sessions, implements responsive design principles for cross-device compatibility, and provides accessibility features for diverse user needs. The entire system is built with maintainability in mind, featuring comprehensive documentation, structured logging, and modular code organization.
+REST API for developers
 
-Important Disclaimer
-This tool is designed strictly for screening purposes and does not provide medical diagnosis. The results should not be considered as professional medical advice under any circumstances. This application serves as an early awareness tool only and must be followed by professional evaluation from qualified healthcare providers. The screening covers limited behavioral indicators and should be used as part of comprehensive developmental assessment conducted by medical professionals. The developers assume no liability for medical decisions made based on this screening, and users are strongly advised to consult healthcare providers for proper diagnosis and treatment planning.
+Multiple risk categories with color-coded results
 
-Support and Contribution
-The project welcomes community contributions including enhancements to machine learning models, improvements in preprocessing techniques, additional language support, mobile application development, and clinical validation studies. Technical support is available through GitHub issues, while medical questions about ASD should be directed to healthcare professionals and autism advocacy organizations. The development team acknowledges the autism research community, open-source contributors, and healthcare professionals who have provided insights into behavioral indicators and screening methodologies.
+Export capabilities (CSV, PDF reports)
 
+🏗️ System Architecture
+Backend: FastAPI with machine learning model
+Frontend: Streamlit web application
+Model: Random Forest classifier (200 estimators)
+Data: Comprehensive preprocessing pipeline
+
+📊 Screening Areas
+Social Communication: Response to name, eye contact, pointing
+
+Social Interaction: Pretend play, empathy, gestures
+
+Sensory & Development: Sound sensitivities, language milestones
+
+Behavior Patterns: Routine adherence, social engagement
+
+🔧 API Endpoints
+POST /predict - Risk assessment
+
+GET /health - System status
+
+GET /model-info - Technical details
+
+GET /features - Behavioral indicators
+
+🚀 Usage
+Web App: Access at http://localhost:8501
+
+API: Available at http://localhost:8000
+
+Integration: JSON API for custom applications
+
+Results: Probability scores + risk categories + explanations
+
+⚠️ Important Disclaimer
+This is a screening tool only - not a diagnostic tool. Always consult qualified healthcare professionals for medical diagnosis. Results should be used as part of comprehensive evaluation by developmental specialists.
+
+🤝 Support & Contribution
+Issues: GitHub issue tracking
+
+Enhancements: ML improvements, multi-language support
+
+Medical Questions: Consult healthcare providers
+
+Professional medical evaluation required for diagnosis. Use this tool for awareness and preliminary screening only.
